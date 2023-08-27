@@ -1,9 +1,10 @@
 {
   "name": "@cornerstone.chat/imap",
-  "version": "0.8.24",
+  "version": "0.8.25",
   "author": "Brian White <mscdex@mscdex.net>",
   "description": "An IMAP module for node.js that makes communicating with IMAP servers easy",
   "main": "./lib/Connection",
+  "types": "./lib/index.d.ts",
   "dependencies": {
     "socks": "^2.7.1",
     "utf7": ">=1.0.2"
